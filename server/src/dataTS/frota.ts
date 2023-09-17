@@ -1,0 +1,49 @@
+import {TCarro} from './../types/types'
+  export const Frota: TCarro[] = [
+   {
+      marca: 'Chevrolet',
+      modelo: 'Celta',
+      ano: 2008,
+      image_url: "https://i.postimg.cc/tTJTw3cL/celta-2008-removebg-preview.png",
+      price: 800
+    }, {
+      marca: 'Chevrolet',
+      modelo: 'Vectra',
+      ano: 2004
+    }, {
+      marca: 'Ford',
+      modelo: 'EcoSport',
+      ano: 2012
+    }, {
+      marca: 'Ford',
+      modelo: 'Ka',
+      ano: 2015
+    }, {
+      marca: 'Ford',
+      modelo: 'Fiesta',
+      ano: 2018
+    }, {
+      marca: 'Fiat',
+      modelo: 'Uno',
+      ano: 2020
+    }, {
+      marca: 'Fiat',
+      modelo: 'Toro',
+      ano: 2022
+    }, {
+      marca: 'Fiat',
+      modelo: 'Punto',
+      ano: 2017
+    }, {
+      marca: 'Toyota',
+      modelo: 'Corolla',
+      ano: 2021
+    }, {
+      marca: 'Toyota',
+      modelo: 'Etios',
+      ano: 2020
+    }, {
+      marca: 'Toyota',
+      modelo: 'Yaris',
+      ano: 2019
+    }]
